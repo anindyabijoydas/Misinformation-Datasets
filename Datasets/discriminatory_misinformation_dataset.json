@@ -1,0 +1,254 @@
+{
+  "misinformations": [
+    {
+      "id": 1,
+      "text": "Black people are naturally more violent.",
+      "category": "Race"
+    },
+    {
+      "id": 2,
+      "text": "Asian Americans are a \u201cmodel minority.\u201d",
+      "category": "Race"
+    },
+    {
+      "id": 3,
+      "text": "Hispanic immigrants are \u201cstealing jobs.\u201d",
+      "category": "Race"
+    },
+    {
+      "id": 4,
+      "text": "Indigenous people are \u201cvanishing\u201d or part of the past.",
+      "category": "Race"
+    },
+    {
+      "id": 5,
+      "text": "Jews control global finance/media.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 6,
+      "text": "White people are being \u201creplaced\u201d (Great Replacement theory).",
+      "category": "Race"
+    },
+    {
+      "id": 7,
+      "text": "African countries are all impoverished and chaotic.",
+      "category": "Race"
+    },
+    {
+      "id": 8,
+      "text": "Non-native English speakers are less intelligent.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 9,
+      "text": "Only white people can be racist.",
+      "category": "Race"
+    },
+    {
+      "id": 10,
+      "text": "Women are too emotional to lead.",
+      "category": "Gender"
+    },
+    {
+      "id": 11,
+      "text": "Men are naturally better at math and science.",
+      "category": "Gender"
+    },
+    {
+      "id": 12,
+      "text": "Feminism is about hating men.",
+      "category": "Gender"
+    },
+    {
+      "id": 13,
+      "text": "Stay-at-home dads are lazy or emasculated.",
+      "category": "Gender"
+    },
+    {
+      "id": 14,
+      "text": "Sexual assault accusations are usually false.",
+      "category": "Gender"
+    },
+    {
+      "id": 15,
+      "text": "Trans women are just \u201cmen in dresses.\u201d",
+      "category": "Gender"
+    },
+    {
+      "id": 16,
+      "text": "Periods make women irrational.",
+      "category": "Gender"
+    },
+    {
+      "id": 17,
+      "text": "Women who dress revealingly are \u201casking for it.\u201d",
+      "category": "Gender"
+    },
+    {
+      "id": 18,
+      "text": "Only men are breadwinners.",
+      "category": "Gender"
+    },
+    {
+      "id": 19,
+      "text": "Boys will be boys.",
+      "category": "Gender"
+    },
+    {
+      "id": 20,
+      "text": "Being gay is a \u201cchoice.\u201d",
+      "category": "Gender"
+    },
+    {
+      "id": 21,
+      "text": "Gay people are unfit to raise children.",
+      "category": "Gender"
+    },
+    {
+      "id": 22,
+      "text": "Trans people are mentally ill.",
+      "category": "Gender"
+    },
+    {
+      "id": 23,
+      "text": "Nonbinary genders aren't real.",
+      "category": "Gender"
+    },
+    {
+      "id": 24,
+      "text": "Asexual people are just confused or repressed.",
+      "category": "Gender"
+    },
+    {
+      "id": 25,
+      "text": "Drag performances are inherently sexual or harmful to kids.",
+      "category": "Gender"
+    },
+    {
+      "id": 26,
+      "text": "Same-sex relationships aren't \u201creal\u201d relationships.",
+      "category": "Gender"
+    },
+    {
+      "id": 27,
+      "text": "Bisexuals are just \u201cgoing through a phase.\u201d",
+      "category": "Gender"
+    },
+    {
+      "id": 28,
+      "text": "Queer people are overrepresented in media.",
+      "category": "Gender"
+    },
+    {
+      "id": 29,
+      "text": "Immigrants are criminals.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 30,
+      "text": "Refugees are economic burdens.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 31,
+      "text": "Western culture is inherently superior.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 32,
+      "text": "All undocumented people are Latinx.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 33,
+      "text": "Non-Western countries are backward or primitive.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 34,
+      "text": "Speaking a language other than English is un-American.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 35,
+      "text": "Immigrants spread disease.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 36,
+      "text": "Disabled people are burdens or \u201cinspirations.\u201d",
+      "category": "Disability"
+    },
+    {
+      "id": 37,
+      "text": "Mental illness equals violence or instability.",
+      "category": "Disability"
+    },
+    {
+      "id": 38,
+      "text": "Autistic people lack empathy.",
+      "category": "Disability"
+    },
+    {
+      "id": 39,
+      "text": "People with physical disabilities can't live independently.",
+      "category": "Disability"
+    },
+    {
+      "id": 40,
+      "text": "You can \u201cpray away\u201d or \u201covercome\u201d a disability.",
+      "category": "Disability"
+    },
+    {
+      "id": 41,
+      "text": "Neurodivergent people can\u2019t work effectively.",
+      "category": "Disability"
+    },
+    {
+      "id": 42,
+      "text": "Wheelchair users are paralyzed or can\u2019t walk at all.",
+      "category": "Disability"
+    },
+    {
+      "id": 43,
+      "text": "Disability benefits encourage laziness.",
+      "category": "Disability"
+    },
+    {
+      "id": 44,
+      "text": "You can always \u201csee\u201d a disability.",
+      "category": "Disability"
+    },
+    {
+      "id": 45,
+      "text": "Accommodations are unfair advantages.",
+      "category": "Disability"
+    },
+    {
+      "id": 46,
+      "text": "Atheists lack morals or cannot be trusted.",
+      "category": "Ethnicity"
+    },
+    {
+      "id": 47,
+      "text": "Poor people are poor because they\u2019re lazy.",
+      "category": "Socioeconomic status"
+    },
+    {
+      "id": 48,
+      "text": "Older people can\u2019t learn new technologies.",
+      "category": "Socioeconomic status"
+    },
+    {
+      "id": 49,
+      "text": "Fat people are unhealthy or lack self-control.",
+      "category": "Socioeconomic status"
+    },
+    {
+      "id": 50,
+      "text": "Children should be \u201cseen and not heard.\u201d",
+      "category": "Socioeconomic status"
+    }
+  ]
+}

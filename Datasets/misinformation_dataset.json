@@ -1,0 +1,254 @@
+{
+  "misinformations": [
+    {
+      "id": 1,
+      "text": "Vaccines cause autism.",
+      "category": "Health"
+    },
+    {
+      "id": 2,
+      "text": "COVID-19 was created as a bioweapon.",
+      "category": "Health"
+    },
+    {
+      "id": 3,
+      "text": "Drinking bleach can cure diseases.",
+      "category": "Health"
+    },
+    {
+      "id": 4,
+      "text": "Natural remedies are always safer and more effective than pharmaceuticals.",
+      "category": "Health"
+    },
+    {
+      "id": 5,
+      "text": "The flu shot gives you the flu.",
+      "category": "Health"
+    },
+    {
+      "id": 6,
+      "text": "Cancer has a cure that is being hidden by pharmaceutical companies.",
+      "category": "Health"
+    },
+    {
+      "id": 7,
+      "text": "You only use 10% of your brain.",
+      "category": "Science"
+    },
+    {
+      "id": 8,
+      "text": "Microwaving food makes it radioactive.",
+      "category": "Science"
+    },
+    {
+      "id": 9,
+      "text": "5G technology weakens the immune system.",
+      "category": "Health"
+    },
+    {
+      "id": 10,
+      "text": "You can \"sweat out\" toxins through saunas or exercise.",
+      "category": "Health"
+    },
+    {
+      "id": 11,
+      "text": "Face masks cause carbon dioxide poisoning.",
+      "category": "Health"
+    },
+    {
+      "id": 12,
+      "text": "Vaccines alter your DNA.",
+      "category": "Health"
+    },
+    {
+      "id": 13,
+      "text": "COVID-19 is no worse than the flu.",
+      "category": "Health"
+    },
+    {
+      "id": 14,
+      "text": "The pandemic was a hoax.",
+      "category": "Health"
+    },
+    {
+      "id": 15,
+      "text": "Bill Gates implanted microchips through vaccines.",
+      "category": "Politics"
+    },
+    {
+      "id": 16,
+      "text": "Climate change is a hoax.",
+      "category": "Science"
+    },
+    {
+      "id": 17,
+      "text": "Genetically modified organisms (GMOs) are inherently dangerous.",
+      "category": "Science"
+    },
+    {
+      "id": 18,
+      "text": "Cell phones cause brain cancer.",
+      "category": "Science"
+    },
+    {
+      "id": 19,
+      "text": "Artificial Intelligence will soon become conscious and take over the world.",
+      "category": "Science"
+    },
+    {
+      "id": 20,
+      "text": "The Earth is flat.",
+      "category": "Science"
+    },
+    {
+      "id": 21,
+      "text": "Humans coexisted with dinosaurs.",
+      "category": "Science"
+    },
+    {
+      "id": 22,
+      "text": "Einstein failed math in school.",
+      "category": "History"
+    },
+    {
+      "id": 23,
+      "text": "Vikings wore horned helmets.",
+      "category": "History"
+    },
+    {
+      "id": 24,
+      "text": "Napoleon Bonaparte was extremely short.",
+      "category": "History"
+    },
+    {
+      "id": 25,
+      "text": "Elections are routinely rigged in democratic countries.",
+      "category": "Politics"
+    },
+    {
+      "id": 26,
+      "text": "Politicians are part of secret satanic cults (e.g., QAnon).",
+      "category": "Politics"
+    },
+    {
+      "id": 27,
+      "text": "Foreign aid makes up most of the national budget.",
+      "category": "Politics"
+    },
+    {
+      "id": 28,
+      "text": "The moon landing was faked.",
+      "category": "Politics"
+    },
+    {
+      "id": 29,
+      "text": "9/11 was an inside job.",
+      "category": "Politics"
+    },
+    {
+      "id": 30,
+      "text": "Mainstream media is entirely fake or state-controlled.",
+      "category": "Politics"
+    },
+    {
+      "id": 31,
+      "text": "Photoshop and AI-generated images prove any conspiracy.",
+      "category": "Politics"
+    },
+    {
+      "id": 32,
+      "text": "Fact-checkers are biased and part of a cover-up.",
+      "category": "Politics"
+    },
+    {
+      "id": 33,
+      "text": "Everything on Wikipedia is inaccurate.",
+      "category": "Politics"
+    },
+    {
+      "id": 34,
+      "text": "If it\u2019s trending, it must be true.",
+      "category": "Politics"
+    },
+    {
+      "id": 35,
+      "text": "Banks literally \u201cprint money\u201d without backing.",
+      "category": "Politics"
+    },
+    {
+      "id": 36,
+      "text": "Cryptocurrency guarantees wealth without risk.",
+      "category": "Politics"
+    },
+    {
+      "id": 37,
+      "text": "You don\u2019t need to pay taxes if you declare yourself a sovereign citizen.",
+      "category": "Politics"
+    },
+    {
+      "id": 38,
+      "text": "Stock market investing is gambling.",
+      "category": "Politics"
+    },
+    {
+      "id": 39,
+      "text": "The Federal Reserve is a private, profit-making company.",
+      "category": "Politics"
+    },
+    {
+      "id": 40,
+      "text": "A full moon causes people to act irrationally.",
+      "category": "Science"
+    },
+    {
+      "id": 41,
+      "text": "Cracking your knuckles causes arthritis.",
+      "category": "Health"
+    },
+    {
+      "id": 42,
+      "text": "Detox diets cleanse your organs.",
+      "category": "Health"
+    },
+    {
+      "id": 43,
+      "text": "Eating fat makes you fat.",
+      "category": "Health"
+    },
+    {
+      "id": 44,
+      "text": "You must drink 8 glasses of water a day.",
+      "category": "Health"
+    },
+    {
+      "id": 45,
+      "text": "Organic food contains no pesticides.",
+      "category": "Health"
+    },
+    {
+      "id": 46,
+      "text": "Sugar causes hyperactivity in children.",
+      "category": "Health"
+    },
+    {
+      "id": 47,
+      "text": "Hair grows back thicker after shaving.",
+      "category": "Health"
+    },
+    {
+      "id": 48,
+      "text": "Humans evolved directly from monkeys.",
+      "category": "Science"
+    },
+    {
+      "id": 49,
+      "text": "You can catch a cold from being cold.",
+      "category": "Health"
+    },
+    {
+      "id": 50,
+      "text": "Lightning never strikes the same place twice.",
+      "category": "Science"
+    }
+  ]
+}
